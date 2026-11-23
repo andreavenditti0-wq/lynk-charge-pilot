@@ -1,0 +1,30 @@
+LYNK CHARGE PILOT - PWA GRATUITA
+
+CONTENUTO
+- index.html: interfaccia
+- app.js: calcoli e memoria locale
+- manifest.webmanifest: installazione con icona
+- sw.js: uso offline
+- icons/: icone
+
+PUBBLICAZIONE GRATUITA CON GITHUB PAGES (PC WINDOWS)
+1. Crea un account gratuito su GitHub.com.
+2. Crea un nuovo repository pubblico chiamato lynk-charge-pilot.
+3. Carica nella radice del repository TUTTI i file e la cartella icons contenuti nello ZIP.
+4. Apri Settings > Pages.
+5. In Build and deployment scegli Deploy from a branch.
+6. Seleziona branch main e cartella /(root), quindi Save.
+7. Dopo alcuni minuti GitHub mostrerà l'indirizzo HTTPS dell'app.
+
+INSTALLAZIONE SU IPHONE
+1. Apri l'indirizzo HTTPS con Safari.
+2. Tocca Condividi.
+3. Tocca Aggiungi alla schermata Home.
+4. Conferma Aggiungi.
+
+STATO E LIMITI
+- Il prototipo non si collega ancora alla Lynk & Co o a FusionSolar.
+- Non legge celle, SOH o BMS.
+- Non invia comandi all'auto.
+- I dati inseriti e il diario restano nel browser dell'iPhone.
+- GitHub Pages richiede che il repository gratuito sia pubblico: non inserire password, VIN, token o coordinate nei file.
