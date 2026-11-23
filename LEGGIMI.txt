@@ -1,0 +1,1 @@
+Sostituisci nel repository GitHub i file index.html, manifest.webmanifest, sw.js e icon.png. Attendi il deploy verde in Actions. Su iPhone chiudi e riapri la PWA. Se resta la vecchia versione, elimina l’icona e aggiungila di nuovo da Safari.
