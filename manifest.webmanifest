@@ -1,1 +1,19 @@
-{"name": "Lynk Charge Pilot", "short_name": "Lynk Charge", "start_url": "./", "display": "standalone", "background_color": "#09100d", "theme_color": "#0c1712", "icons": [{"src": "icon.png", "sizes": "512x512", "type": "image/png"}]}
+{
+  "name": "Lynk Charge Pilot V3",
+  "short_name": "Lynk Charge",
+  "description": "Prototipo PWA per gestione ricarica Lynk & Co 08",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#07100c",
+  "theme_color": "#08120e",
+  "lang": "it",
+  "icons": [
+    {
+      "src": "icon.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}

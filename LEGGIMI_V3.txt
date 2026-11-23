@@ -1,0 +1,17 @@
+LYNK CHARGE PILOT V3 - AGGIORNAMENTO GITHUB PAGES
+
+Sostituisci nella radice del repository GitHub questi file:
+- index.html
+- app.js
+- manifest.webmanifest
+- sw.js
+- icon.png
+
+Poi:
+1. Commit changes.
+2. Attendi il segno verde in GitHub Actions / Pages build and deployment.
+3. Apri https://andreavenditti0-wq.github.io/lynk-charge-pilot/ in Safari.
+4. Chiudi e riapri la PWA. Se resta V2, elimina l'icona dalla Home, apri il sito in Safari e usa Condividi > Aggiungi alla schermata Home.
+
+IMPORTANTE
+I dati live della V3 sono esplicitamente simulati. Non provengono dalla Lynk & Co, da FusionSolar, dal caricatore o dal BMS. Nessun comando viene inviato alla vettura.
